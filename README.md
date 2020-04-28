@@ -1,15 +1,13 @@
 # Hello World
 My Git starts off with a hello world.
 
-31/08/2019<br>
----
+##### 31/08/2019
 Hey guys,
 My name is Adithya, and I'm using my Github account for the first time even though i've had it for multiple days till now.
 Feel free to give me advice or feedback, i'll take it as constructive criticism.
 Peace!
 
-28/04/2020<br>
----
+##### 28/04/2020
 I'm glad to say that I'm working a lot more on code now, and have been using GitHub a lot more.<br>
 While, I haven't made any significant contribution to any large scale project yet, I have learnt to use VCS and GitHub better.
 I've tried to work on a variety of projects and would like to show them off.
