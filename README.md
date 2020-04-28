@@ -1,4 +1,4 @@
-# hello-world
+# Hello World
 My Git starts off with a hello world.
 
 Hey guys,
