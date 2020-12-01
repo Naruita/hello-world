@@ -29,6 +29,9 @@ Now, the tools that I can use have grown a lot larger, requiring a list of sorts
  - PostgreSQL
  - Tkinter
  - XML -> EPUB Conversion
+ - Django Based Web Development
+ 
+ I'm currently directing a team to build a Django-based centralized hub for [Winter Season of Code](https://www.wsocbyosc.com).
  
 <pre>
 <a href=""https://github.com/dat-adi/time-tabler>Time Tabler</a> : An experiment of trying to automate my timetable for college, with the script being able to automatically open up the classes.
