@@ -37,3 +37,6 @@ Now, the tools that I can use have grown a lot larger, requiring a list of sorts
 <a href=""https://github.com/dat-adi/time-tabler>Time Tabler</a> : An experiment of trying to automate my timetable for college, with the script being able to automatically open up the classes.
 <a href="https://github.com/dat-adi/eisen-tickets">Eisen's Tickets</a> : An application made to learn the implementation of Databases, Tkinter, and Python.
 </pre>
+
+---
+<p align="right"><i>dat-adi</i></p>
