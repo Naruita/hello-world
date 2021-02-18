@@ -36,7 +36,7 @@ Now, the tools that I can use have grown a lot larger, requiring a list of sorts
  I'm also a technical writer for [JournalDev](https://www.askpython.com), and write articles on Python modules.
  
 <pre>
-<a href=""https://github.com/dat-adi/time-tabler>Time Tabler</a> : An experiment of trying to automate my timetable for college, with the script being able to automatically open up the classes.
+<a href=""https://github.com/dat-adi/time-tabler">Time Tabler</a> : An experiment of trying to automate my timetable for college, with the script being able to automatically open up the classes.
 <a href="https://github.com/dat-adi/eisen-tickets">Eisen's Tickets</a> : An application made to learn the implementation of Databases, Tkinter, and Python.
 </pre>
 
