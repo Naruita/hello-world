@@ -40,5 +40,39 @@ Now, the tools that I can use have grown a lot larger, requiring a list of sorts
 <a href="https://github.com/dat-adi/eisen-tickets">Eisen's Tickets</a> : An application made to learn the implementation of Databases, Tkinter, and Python.
 </pre>
 
+##### 28/04/2021
+It's been about 4 months since an update, so here I am.<br>
+The Django-based project that I have headed for the duration of 3-4 months concluded on March 1st.<br>
+The project is known as [OSCHub](https://github.com/Open-Source-Community-VIT-AP/oschub), and I'm pretty proud of it.<br>
+This project has been given the position of the best project in WSoC2020, and I'm pretty stoked about it.
+
+OSCHub is currently being improved further however, in order to get it to a true production level stage where students can register for events through it's portal.
+
+I have now officially converted to Linux. It was just a leap that was long overdue. I took it.<br>
+I'ved started the journey with Ubuntu but, while it was nice. It wasn't enough of a challenge.<br>
+Upon further research into Linux distros, I decided that one more leap wouldn't hurt.<br>
+So, I picked **Arch Linux**.
+
+I can't say that I'm sorry however.<br>
+Keeping aside the first few weeks where I struggled with Internet, Audio, and Window Managers, I genuinely enjoy working on a new environment now.
+
+A list of things that I discovered on Arch Linux are,
+ - Qtile
+ - Symlinked Dotfiles
+ - Alacritty
+ - Doom Emacs
+ - Pain
+
+And, getting to the skillset that I've developed, from the last time,
+ - Technical Writing
+ - I'm seriously clueless.
+ - I hit gold in Valorant.
+
+I now spend my days working towards management more than coding, as the Open Source Community begins to work on larger projects, and I direct and support the community as a Vice President.
+
+<pre>
+<a href="https://github.com/Open-Source-Community-VIT-AP/oschub">OSCHub</a> : A Centralized Hub for Event Management, made under the Winter Season of Code Initiative.
+</pre>
+
 ---
 <p align="right"><i>dat-adi</i></p>
