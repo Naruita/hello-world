@@ -71,8 +71,24 @@ And, getting to the skillset that I've developed, from the last time,
 I now spend my days working towards management more than coding, as the Open Source Community begins to work on larger projects, and I direct and support the community as a Vice President.
 
 <pre>
-<a href="https://github.com/Open-Source-Community-VIT-AP/oschub">OSCHub</a> : A Centralized Hub for Event Management, made under the Winter Season of Code Initiative.
+<a href="https://github.com/osc-vitap/oschub">OSCHub</a> : A Centralized Hub for Event Management, made under the Winter Season of Code Initiative.
 </pre>
+
+##### 11/04/2022
+It's been a year since an update, and there's been quite a few changes. Quite a bit too much to record honestly,
+but I'll try!<br>
+
+Career-wise? I've progressed to become the President of the Open Source Community of VIT-AP, and had OSCHub deployed to be used actively by the community for event management.
+I'm yet to start interning at [Price Waterhouse Coopers](https://www.pwc.in/), I'm to be a Technical Consultant in a month or so.
+
+Configuration-wise? I've made quite a few changes to the way I work on code, or just use my laptop in general. I now run Arch on a [Lenovo Legion 5](https://www.lenovo.com/in/en/laptops/legion-laptops/legion-5-series/Legion-5-15ACH6H/p/88GMY501582).
+I currently use [Sway](https://github.com/swaywm/sway), a wayland compositor, and I really like it, more details about the configuration can be found [here](https://github.com/dat-adi/dotfiles).
+
+I use DOOM Emacs for note-taking extensively now. With notes, and journal entries being my form of expressing what I'm learning, it's a pretty great application!
+I've also joined a few organizations, such as [Agni](https://github.com/agni-ems) for the development of a university management system, and [ForgeFlux](https://github.com/forgeflux-org/) to develop on API-space software forge federation tech.
+
+Just as a sidenote, the refresh rate and the smoothness of a new laptop is amazing on Arch. Of course, I did have to dual boot it with Windows since I do game as well.
+Ahem, platinum 1 on Valorant, ahem.
 
 ---
 <p align="right"><i>dat-adi</i></p>
