@@ -161,5 +161,18 @@ of [Redis](https://redis.io/). It was a fruitful learning experience where I wor
 
 That was quite a bit, I'll wrap up by saying that I hit Diamond 1 in Valorant. ;)
 
+##### 31/12/2022 
+
+I'm out of college! No, I don't mean dropped out. But, I don't have to stay at 
+the college and attend courses offline anymore.
+
+I'm not going to write too much about the past year, despite it being really 
+cool simply because I wrote a [post](https://datadi.murgi.org/posts/for-the-new-year/) 
+about it instead. I haven't quite discovered or learnt anything new per se with 
+regards to tech, but I did manage to [fix up my neovim environment](https://datadi.murgi.org/posts/dotfiles/)
+to work much better.
+
+I don't know how, but I'm Ascendant 1 in Valorant now.
+
 ---
 <p align="right"><i>dat-adi</i></p>
