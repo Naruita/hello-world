@@ -174,5 +174,40 @@ to work much better.
 
 I don't know how, but I'm Ascendant 1 in Valorant now.
 
+##### 25/06/2023
+
+I'm at the end of yet another arc in my life. Here's a list of things that I've 
+done over the course of the past six months.
+- Joined as an Intern at Bajaj Markets.
+- Got put into the Data Engineering Team (!?)
+- Found out that Data Engineering was actually fun.
+- Met some amazing people in and out of the team.
+- Built a robust and extensible data migration pipeline from scratch.
+- Published two research papers on SDNs: [Advanced Networking Applications](https://www.researchgate.net/publication/370987816_A_Study_on_Advanced_Networking_using_Intelligent_Systems_Applications) and [ASM-SDN](https://link.springer.com/article/10.1007/s11227-023-05392-z).
+
+Despite doing a decent chunk of work, somehow it still feels like I haven't quite
+gotten anywhere and that I've wasted the past few months for some reason. I don't 
+know why, and even worse is that I don't know where to start understanding why.
+Oh, and I've also been working out, which is cool. I'm healthy now.
+
+With respect to my technical knowledge growth, there are a few things that I
+can point out to be softwares that I use on a regular basis while at work, here's
+a list,
+- [Pydantic](https://docs.pydantic.dev/latest/).
+- Pandas, [Polars](https://www.pola.rs/), [Pyarrow](https://arrow.apache.org/docs/python/index.html).
+- [Apache Spark](https://spark.apache.org/docs/latest/api/python/getting_started/index.html), [DuckDB](https://duckdb.org/).
+- PostgreSQL, MySQL, Amazon Redshift.
+- PL/SQL.
+- [Design Patterns](https://refactoring.guru/), [GPSG](https://google.github.io/styleguide/pyguide.html).
+
+It does dawn upon me that, despite working on cool new things, I'm still
+missing something, but I can't place my finger on it. I've discovered better
+coding guidelines, optimized thought processes and have adopted a lot of great
+coding standards. The world too is in a weird place right now that I'm not sure
+whether to look at as the "go-to" spot.
+
+It's a pretty weird state of affairs. But, hey, it's starting to rain in Pune.
+This means that I can go on all kinds of treks now. I can't wait.
+
 ---
 <p align="right"><i>dat-adi</i></p>
